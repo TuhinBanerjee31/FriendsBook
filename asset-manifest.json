@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/friendsbook/static/css/main.93a4f420.css",
+    "main.js": "/friendsbook/static/js/main.602dbe52.js",
+    "static/js/787.cc1f71a6.chunk.js": "/friendsbook/static/js/787.cc1f71a6.chunk.js",
+    "index.html": "/friendsbook/index.html",
+    "main.93a4f420.css.map": "/friendsbook/static/css/main.93a4f420.css.map",
+    "main.602dbe52.js.map": "/friendsbook/static/js/main.602dbe52.js.map",
+    "787.cc1f71a6.chunk.js.map": "/friendsbook/static/js/787.cc1f71a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a4f420.css",
+    "static/js/main.602dbe52.js"
+  ]
+}
